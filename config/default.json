@@ -1,0 +1,5 @@
+{
+    "jwtPrivateKey": "unsecureKey",
+    "db": "mongodb://localhost/guest-book",
+    "port": 8080
+}
